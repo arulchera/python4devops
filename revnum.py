@@ -1,7 +1,8 @@
-num=int(input("enter the number to be reversed"))
-rev=0
-while num!= 0:
-    rev=(rev*10)+(num%10)
-    num=num//10
-print("rev number",rev)
+num=int(input("enter the number for factorial"))
+i = 1
+mul=1
+while (i <= num):
+    mul=mul*i
+    i = i+1
+print("factor is:",mul)
 
