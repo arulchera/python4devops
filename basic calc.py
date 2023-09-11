@@ -4,7 +4,7 @@ c=a+b
 print("the sum is:",c)
 d=a*b
 print("the multiplication is:",d)
-""" shellscripting 
+""" shellscripting  ..
 #!/bin/bash
 n3=0
 read -p "enter n1" n1
